@@ -1,0 +1,26 @@
+version control system: who, when, why(-m)?(changes)
+
+git init(bottom to top)
+touch hello-world.html
+
+-git status
+-git add hello-world.html
+-git status(helps to track our files)
+-git add.(track every single files)
+-boiler plate code
+-commit(for permanent purpose/never gonna be changed)
+
+-git commit -m"Initialize new repo with file"
+run it again
+
+git log
+
+<h1>hello world</h1>
+git diff
+
+git add hello-world.html
+
+git commit -m "added a header in hello world.html"
+git add hello-world.html
+
+git log
